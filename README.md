@@ -60,13 +60,13 @@ It was developed as the final task for the **DEPI** program. The platform allows
    - Displays all available courses. Users can search and apply filters to narrow down course options.
 
 3. **Course Details**:
-   - Each Course has a detailed page which shows multiple information like course length, price and reviews.
+   - Each Course has a detailed page which shows multiple information like course length, price, and reviews.
   
 4. **Profile Page**:
-   - Each user has a personalized profile page where they can manage their profile picture, view their skills, experience, and current courses in progress.
+   - Each user has a personalized profile page where they can manage their profile picture, and view their skills, experience, and current courses in progress.
 
 5. **Enrolled Course Page**
-   - Page where the user can track the content of the enrolled course and check the modules of the course.
+   - A page where the user can track the content of the enrolled course and check the course modules.
 
 6. **Admin Dashboard**:
    - Accessible only to admins. Includes tools for managing users and courses.
@@ -75,8 +75,10 @@ It was developed as the final task for the **DEPI** program. The platform allows
    - Dedicated login and logout pages to manage user sessions.
   
 8. **Add courses Page**:
-   - Dedicated Page where the instructors can upload their own courses.
+   - A dedicated Page where the instructors can upload their own courses.
   
 9. **Pricing Page**:
-   - Shows the available packages which user can subscribe into
+   - Shows the available packages that user can subscribe into
 # EduSpace
+
+https://docs.google.com/presentation/d/1yzLifh6ijyTxLca4NHUcCHrC3ljHUb4O/edit?usp=sharing&ouid=116126395591963718239&rtpof=true&sd=true
